@@ -1,2 +1,2 @@
-# portfolio2B
-Portfólio 2B // SENAI
+# portfolioTécnico
+### Portfólio 2B - Técnico
