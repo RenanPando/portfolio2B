@@ -1,7 +1,7 @@
 # Portfólio 2B - Técnico
 ### SENAI 2021
 
-##<i><b>Informações pessoais:</b></i>
+## <i><b>Informações pessoais:</b></i>
 
 Renan Machado
 
@@ -9,7 +9,7 @@ Renan Machado
 
 renan_p_machado@estudante.sc.senai.br
 
-##<i><b>Experiências:</b></i>
+## <i><b>Experiências:</b></i>
 
 - Nenhuma
 
