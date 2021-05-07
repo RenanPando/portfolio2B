@@ -35,6 +35,6 @@ renan_p_machado@estudante.sc.senai.br
 
 ## <i><b>Objetivo </b></i>
 
-Programador
-Desenvolvedor web
-Desenvolvedor de software
+- Programador
+- Desenvolvedor web
+- Desenvolvedor de software
