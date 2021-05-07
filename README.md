@@ -3,4 +3,12 @@
 
 <i><b>Informações pessoais:</b></i>
 
-<b>Nome</b> Renan Machado
+Renan Machado
+
+9 de janeiro de 2005
+
+renan_p_machado@estudante.sc.senai.br
+
+*Experiências:
+
+- Nenhuma
