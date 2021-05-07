@@ -23,6 +23,18 @@ renan_p_machado@estudante.sc.senai.br
 - Conhecimento básico de HTML
 - Conhecimento intermediário de Java
 - Conhecimendo avançado de Python
-- Conhecimento avançado sobre edição de video e imagem (Adobe Photoshop e Adobe After Effects)
+- Conhecimento avançado sobre edição de video
+- Conhecimento avançado sobre edição de imagem
 
-##
+## <i><b>Softwares</b></i>
+
+- Adobe Photoshop
+- Adobe After Effects
+- Visual Studio Code
+- Atom
+
+## <i><b>Objetivo </b></i>
+
+Programador
+Desenvolvedor web
+Desenvolvedor de software
