@@ -3,8 +3,10 @@
 
 #!/bin/bash
 
-nomes=("Pedro" "Gabriela" "Mateus")
-for x in ${nomes[@]}
+nomes=("João" "Paulo" "Henrique")
+x=0
+while [ $x -ne 3 ]
 do
-        echo "Oi, eu sou $x!"
+        echo "Oi, eu sou ${nomes[$x]}!"
+        x=$(($x+1))
 done
