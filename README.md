@@ -7,8 +7,6 @@ Renan Machado
 
 9 de janeiro de 2005
 
-renan_p_machado@estudante.sc.senai.br
-
 ## <i><b>Educação</b></i>
 
 - Ensino fundamental completo
