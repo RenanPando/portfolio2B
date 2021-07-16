@@ -40,22 +40,8 @@ Renan Machado
 ## Questão 1
 
 
-#!/bin/bash
-
-cat /etc/passwd
+[ Script - Usuários ] (exemplos/questao1.sh)
 
 ## Questão 2
 
-
-#!/bin/bash
-
-echo "Leitor de permissões
-
-r = ler, w = escrever, x = executar"
-
-
-echo "Informe o seu arquivo"
-
-read $1
-
-ls -l $1
+[Script - Permissões] (exemplos/questao2.sh)
