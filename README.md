@@ -39,10 +39,12 @@ Estudante
 
 ## Questão 1
 
+
 #!/bin/bash
 cat /etc/passwd
 
 ## Questão 2
+
 
 #!/bin/bash
 echo "Leitor de permissões
