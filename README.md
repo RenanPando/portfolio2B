@@ -41,6 +41,7 @@ Estudante
 
 
 #!/bin/bash
+
 cat /etc/passwd
 
 ## Questão 2
