@@ -4,7 +4,7 @@
 ## <i><b>Informações pessoais</b></i>
 
 Renan Machado
-Estudante
+- Estudante
 
 ## <i><b>Educação</b></i>
 
