@@ -4,8 +4,7 @@
 ## <i><b>Informações pessoais</b></i>
 
 Renan Machado
-
-9 de janeiro de 2005
+Estudante
 
 ## <i><b>Educação</b></i>
 
@@ -19,16 +18,17 @@ Renan Machado
 ## <i><b>Habilidades</b></i>
 
 - Conhecimento básico de HTML
-- Conhecimento intermediário de Java
+- Conhecimento básico de Java
+- Conhecimento intermediário sobre edição de imagem
 - Conhecimendo avançado de Python
 - Conhecimento avançado sobre edição de video
-- Conhecimento avançado sobre edição de imagem
 
 ## <i><b>Softwares</b></i>
 
 - Adobe Photoshop
 - Adobe After Effects
 - Visual Studio Code
+- Apache NetBeans
 - Atom
 
 ## <i><b>Objetivo </b></i>
@@ -36,3 +36,18 @@ Renan Machado
 - Programador
 - Desenvolvedor web
 - Desenvolvedor de software
+
+## Questão 1
+
+#!/bin/bash
+cat /etc/passwd
+
+## Questão 2
+
+#!/bin/bash
+echo "Leitor de permissões
+r = ler, w = escrever, x = executar"
+
+echo "Informe o seu arquivo"
+read $1
+ls -l $1
