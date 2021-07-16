@@ -40,8 +40,8 @@ Renan Machado
 ## Questão 1
 
 
-[ Script - Usuários ] (exemplos/questao1.sh)
+[ Script - Usuários ](exemplos/questao1.sh)
 
 ## Questão 2
 
-[Script - Permissões] (exemplos/questao2.sh)
+[Script - Permissões](exemplos/questao2.sh)
