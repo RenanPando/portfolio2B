@@ -45,3 +45,9 @@ Renan Machado
 ## Questão 2
 
 [Script - Permissões](exemplos/questao2.sh)
+
+## Recuperação - Atividades
+
+[Script - Visualizar permissões](avaliacao_pratica/rec1.sh)
+
+[Script - Usuários não-humanos](avaliacao_pratica/rec2.sh)
