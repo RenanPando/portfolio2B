@@ -1,7 +1,6 @@
 # Portfólio 2B - Técnico
 ### SENAI 2021
 
-# <b>SOBRE MIM<b>
 ## <i><b>Informações pessoais</b></i>
 
 Renan Machado
@@ -21,7 +20,7 @@ Renan Machado
 - Conhecimento básico de HTML
 - Conhecimento básico de Java
 - Conhecimento intermediário sobre edição de imagem
-- Conhecimendo avançado de Python
+- Conhecimendo intermediário de Python
 - Conhecimento avançado sobre edição de video
 
 ## <i><b>Softwares</b></i>
@@ -37,21 +36,31 @@ Renan Machado
 - Programador
 - Desenvolvedor web
 - Desenvolvedor de software
-<<<<<<< HEAD
-=======
 
-## Questão 1
+## Fundamentos de TI
+### Projetos
 
+[ Exercício Shell Script ](Fundamentos_TI/exercicioShell.sh)
+[ Pares inferiores ](Fundamentos_TI/paresinf.sh)
+[ Fatorial.sh ](Fundamentos_TI/fatorial.sh)
+[ Tabuada.sh ](Fundamentos_TI/tabuada.sh)
+[ Exercício Vetor 1 ](Fundamentos_TI/vetor1.sh)
+[ Exercício Vetor 2 ](Fundamentos_TI/vetor2.sh)
+[ Exercício Vetor 3 ](Fundamentos_TI/vetor3.sh)
 
-[ Script - Usuários ](exemplos/questao1.sh)
+### Avaliação - Questão 1
+[ Script - Usuários ](Fundamentos_TI/exemplos/questao1.sh)
 
-## Questão 2
+### Avaliação - Questão 2
+[Script - Permissões](Fundamentos_TI/exemplos/questao2.sh)
 
-[Script - Permissões](exemplos/questao2.sh)
+### Recuperação - Atividades
+[Script - Visualizar permissões](Fundamentos_TI/avaliacao_pratica/rec1.sh)
+[Script - Usuários não-humanos](Fundamentos_TI/avaliacao_pratica/rec2.sh)
 
-## Recuperação - Atividades
+## Lógica Computacional
+### Projetos
 
-[Script - Visualizar permissões](avaliacao_pratica/rec1.sh)
-
-[Script - Usuários não-humanos](avaliacao_pratica/rec2.sh)
->>>>>>> c776381af001d0e5bb238248b2bda96785ff3af3
+[ For loop e While loop ](Lógica_Computacional/senai3.java)
+[ JOptionPane - Condicional ](Lógica_Computacional/senai4.java)
+[ JOptionPane - Teste de input ](Lógica_Computacional/senai5.java)
