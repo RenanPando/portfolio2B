@@ -1,6 +1,7 @@
 # Portfólio 2B - Técnico
 ### SENAI 2021
 
+# <b>SOBRE MIM<b>
 ## <i><b>Informações pessoais</b></i>
 
 Renan Machado
@@ -36,12 +37,3 @@ Renan Machado
 - Programador
 - Desenvolvedor web
 - Desenvolvedor de software
-
-## Questão 1
-
-
-[ Script - Usuários ] (exemplos/questao1.sh)
-
-## Questão 2
-
-[Script - Permissões] (exemplos/questao2.sh)
