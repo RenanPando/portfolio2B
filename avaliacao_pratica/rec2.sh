@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+
+>>>>>>> c776381af001d0e5bb238248b2bda96785ff3af3
 x=$(cut -d":" -f3 /etc/passwd)
 num=0
 touch listausers.txt

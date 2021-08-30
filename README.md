@@ -37,3 +37,21 @@ Renan Machado
 - Programador
 - Desenvolvedor web
 - Desenvolvedor de software
+<<<<<<< HEAD
+=======
+
+## Questão 1
+
+
+[ Script - Usuários ](exemplos/questao1.sh)
+
+## Questão 2
+
+[Script - Permissões](exemplos/questao2.sh)
+
+## Recuperação - Atividades
+
+[Script - Visualizar permissões](avaliacao_pratica/rec1.sh)
+
+[Script - Usuários não-humanos](avaliacao_pratica/rec2.sh)
+>>>>>>> c776381af001d0e5bb238248b2bda96785ff3af3
