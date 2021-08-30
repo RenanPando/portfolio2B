@@ -41,11 +41,17 @@ Renan Machado
 ### Projetos
 
 [ Exercício Shell Script ](Fundamentos_TI/exercicioShell.sh)
+
 [ Pares inferiores ](Fundamentos_TI/paresinf.sh)
+
 [ Fatorial.sh ](Fundamentos_TI/fatorial.sh)
+
 [ Tabuada.sh ](Fundamentos_TI/tabuada.sh)
+
 [ Exercício Vetor 1 ](Fundamentos_TI/vetor1.sh)
+
 [ Exercício Vetor 2 ](Fundamentos_TI/vetor2.sh)
+
 [ Exercício Vetor 3 ](Fundamentos_TI/vetor3.sh)
 
 ### Avaliação - Questão 1
@@ -56,11 +62,14 @@ Renan Machado
 
 ### Recuperação - Atividades
 [Script - Visualizar permissões](Fundamentos_TI/avaliacao_pratica/rec1.sh)
+
 [Script - Usuários não-humanos](Fundamentos_TI/avaliacao_pratica/rec2.sh)
 
 ## Lógica Computacional
 ### Projetos
 
 [ For loop e While loop ](Lógica_Computacional/senai3.java)
+
 [ JOptionPane - Condicional ](Lógica_Computacional/senai4.java)
+
 [ JOptionPane - Teste de input ](Lógica_Computacional/senai5.java)
