@@ -1,49 +1,39 @@
-# Portfólio 3B - Técnico
-## SENAI 2022
+# Portfólio 2B - Técnico
+### SENAI 2022
 
 ## <i><b>Informações pessoais</b></i>
 
 Renan Machado
-09/01/2005
-itzchrooma@gmail.com
-Rua Beja, São José - SC / 88107-423
+- Estudante
 
-
-## <b>Educação</b>
+## <i><b>Educação</b></i>
 
 - Ensino fundamental completo
-- Ensino médio técnico incompleto <b>(cursando)</b>
+- Ensino médio técnico incompleto (cursando)
 
-## <b>Idiomas</b>
-
-- Inglês (autodidato)
-
-## <b>Experiências</b>
+## <i><b>Experiências</b></i>
 
 - Nenhuma
 
-## <b>Habilidades</b>
+## <i><b>Habilidades</b></i>
 
-- HTML
-- Java
-- Edição de imagem e vídeo
-- Python
-- SQL
-- Excel
-- Montagem de computadores
+- Conhecimento básico de HTML
+- Conhecimento básico de Java
+- Conhecimento intermediário de edição de imagem
+- Conhecimento intermediário de Python
+- Conhecimento avançado de edição de vídeo
 
-## <b>Softwares</b>
+## <i><b>Softwares</b></i>
 
 - Adobe Photoshop
 - Adobe After Effects
 - Visual Studio Code
-- Android Studio
-- PostgreSQL
 - Apache NetBeans
 - Atom
 
-## <b>Objetivo </b>
+## <i><b>Objetivo</b></i>
 
+- Programador
 - Desenvolvedor web
 - Desenvolvedor de software
 
