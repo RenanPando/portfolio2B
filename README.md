@@ -1,5 +1,5 @@
 # Portfólio 3B - Técnico
-### SENAI 2022
+## SENAI 2022
 
 ## <i><b>Informações pessoais</b></i>
 
@@ -7,16 +7,20 @@ Renan Machado
 - 17 anos
 - Estudante
 
-## <i><b>Educação</b></i>
+## <b>Educação</b>
 
 - Ensino fundamental completo
 - Ensino médio técnico incompleto <b>(cursando)</b>
 
-## <i><b>Experiências</b></i>
+## <b>Idiomas</b>
+
+- Inglês
+
+## <b>Experiências</b>
 
 - Nenhuma
 
-## <i><b>Habilidades</b></i>
+## <b>Habilidades</b>
 
 - Conhecimento básico de HTML
 - Conhecimento intermediário de Java
@@ -25,7 +29,7 @@ Renan Machado
 - Conhecimento intermediário de SQL
 - Conhecimento avançado sobre edição de video
 
-## <i><b>Softwares</b></i>
+## <b>Softwares</b>
 
 - Adobe Photoshop
 - Adobe After Effects
@@ -35,7 +39,7 @@ Renan Machado
 - Apache NetBeans
 - Atom
 
-## <i><b>Objetivo </b></i>
+## <b>Objetivo </b>
 
 - Desenvolvedor web
 - Desenvolvedor de software
