@@ -4,12 +4,13 @@
 ## <i><b>Informações pessoais</b></i>
 
 Renan Machado
+- 17 anos
 - Estudante
 
 ## <i><b>Educação</b></i>
 
 - Ensino fundamental completo
-- Ensino médio incompleto (cursando)
+- Ensino médio técnico incompleto <b>(cursando)</b>
 
 ## <i><b>Experiências</b></i>
 
@@ -18,9 +19,10 @@ Renan Machado
 ## <i><b>Habilidades</b></i>
 
 - Conhecimento básico de HTML
-- Conhecimento básico de Java
+- Conhecimento intermediário de Java
 - Conhecimento intermediário sobre edição de imagem
 - Conhecimendo intermediário de Python
+- Conhecimento intermediário de SQL
 - Conhecimento avançado sobre edição de video
 
 ## <i><b>Softwares</b></i>
@@ -28,12 +30,13 @@ Renan Machado
 - Adobe Photoshop
 - Adobe After Effects
 - Visual Studio Code
+- Android Studio
+- PostgreSQL
 - Apache NetBeans
 - Atom
 
 ## <i><b>Objetivo </b></i>
 
-- Programador
 - Desenvolvedor web
 - Desenvolvedor de software
 
