@@ -4,8 +4,10 @@
 ## <i><b>Informações pessoais</b></i>
 
 Renan Machado
-- 17 anos
-- Estudante
+09/01/2005
+itzchrooma@gmail.com
+Rua Beja, São José - SC / 88107-423
+
 
 ## <b>Educação</b>
 
@@ -14,7 +16,7 @@ Renan Machado
 
 ## <b>Idiomas</b>
 
-- Inglês
+- Inglês (autodidato)
 
 ## <b>Experiências</b>
 
@@ -22,12 +24,13 @@ Renan Machado
 
 ## <b>Habilidades</b>
 
-- Conhecimento básico de HTML
-- Conhecimento intermediário de Java
-- Conhecimento intermediário sobre edição de imagem
-- Conhecimendo intermediário de Python
-- Conhecimento intermediário de SQL
-- Conhecimento avançado sobre edição de video
+- HTML
+- Java
+- Edição de imagem e vídeo
+- Python
+- SQL
+- Excel
+- Montagem de computadores
 
 ## <b>Softwares</b>
 
